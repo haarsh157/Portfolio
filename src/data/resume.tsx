@@ -24,7 +24,7 @@ export type Project = {
 export const DATA = {
   name: "Harsh Range",
   initials: "Harsh",
-  url: "https://google.com",
+  url: "https://portfolio-harsh-range.vercel.app/",
   location: "Jabalpur, Madhya Pradesh, India",
   description:
     "Full Stack Developer passionate about solving complex challenges with modern web technologies. With a keen interest in the decentralized space, I'm open to new collaborations and opportunities to build the future of the web.",
